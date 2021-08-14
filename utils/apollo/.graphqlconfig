@@ -1,0 +1,15 @@
+{
+  "name": "AnpanSwap Exchange LITE",
+  "schemaPath": "schema.graphql",
+  "extensions": {
+    "endpoints": {
+      "AnpanSwap Exchange LITE": {
+        "url": "https://api.bscgraph.org/subgraphs/name/anpanswap/exchange-lite",
+        "headers": {
+          "user-agent": "JS GraphQL"
+        },
+        "introspect": false
+      }
+    }
+  }
+}
