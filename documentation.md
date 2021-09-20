@@ -57,13 +57,13 @@ Returns the tokens in the top ~1000 pairs on AnpanSwap, sorted by reserves.
 }
 ```
 
-## [`/tokens/0x...`](https://api.anpanswap.info/api/tokens/0xaca159cec26fa84e33296538d1619166addc4b97)
+## [`/tokens/0x...`](https://api.anpanswap.info/api/tokens/0xfeca27a665dae2cd212a251a1fa7aa8037495b20)
 
 Returns the token information, based on address.
 
 ### Request
 
-`GET https://api.anpanswap.info/api/tokens/0xaca159cec26fa84e33296538d1619166addc4b97`
+`GET https://api.anpanswap.info/api/tokens/0xfeca27a665dae2cd212a251a1fa7aa8037495b20`
 
 ### Response
 
